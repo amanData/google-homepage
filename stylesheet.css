@@ -1,0 +1,52 @@
+.middle {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.logo img {
+	padding-top: 109px;
+	display: block;
+	margin: auto;
+}
+
+div form {
+	padding-top: 20px;
+}
+
+#search-bar {
+	display: block;
+	width: 75%;
+	height: 2.5em;
+	margin: auto;
+	padding-left: 0.75em;
+	border-style: none;
+	border-width: 1px;
+	box-shadow: 0px 2px 3px #ccc;
+}
+
+nav {
+	font-size: small;
+	height: 20px;
+}
+
+nav ul {
+	text-align: right;
+	margin-right: 20px;
+	list-style-type: none;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+	padding-right: 5px;
+}
+
+li a:link, li a:visited {
+	color: #222;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+}
+
+li a:hover {
+	text-decoration: underline;
+}
